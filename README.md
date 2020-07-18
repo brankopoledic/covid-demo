@@ -20,7 +20,7 @@ In addition, utilize Chicago city government COVID data to do a similar analysis
 
 ## Datasets to be Used
 1. COVID Tracking Project API: https://covidtracking.com/data/api2.Chicago
-2. COVID Data: https://www.chicago.gov/city/en/sites/covid-19/home/latest-data.html
+2. Chicago COVID Data: https://data.cityofchicago.org/Health-Human-Services/COVID-19-Daily-Cases-and-Deaths/naz8-j4nc
 
 ## Breakdown of Tasks
 To be determined

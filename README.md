@@ -1,6 +1,6 @@
 # covid-demo
 ## Project Name
-Demographic Impact on COVID Infection and Death Rates in Illinois
+### Demographic Impact on COVID Infection and Death Rates in Illinois
 
 ## Team Members
 Zac Cheatle, Jiuhe Zhu, Jose Diaz, Daniel Karpowicz, Elaine Cheung

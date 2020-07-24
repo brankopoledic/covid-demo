@@ -6,7 +6,7 @@ Demographic Impact on COVID Infection and Death Rates in Illinois
 ## Team Name
 COVID-19 Demographic Analysis Group
 
-## Team Members
+## Team Members :+1:
 - Zac Cheatle
 - Jiuhe Zhu
 - Jose Diaz

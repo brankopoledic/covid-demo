@@ -29,6 +29,6 @@ COVID-19 Demographic Analysis Group
 ## Breakdown of Tasks
 - [ ] Illinois COVID data analysis (Jose)
 - [ ] Illinois COVID with Census (Zac)
-- [ ] Chicago COVID data analysis (Jiuhe)
-- [ ] Chicago COVID with Census (Elaine)
+- [X] Chicago COVID data analysis (Jiuhe)
+- [X] Chicago COVID with Census (Elaine)
 - [ ] Comparison of Illinois and Chicago data (Daniel)

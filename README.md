@@ -21,7 +21,7 @@ COVID-19 Demographic Analysis Group
 3. If we have enough resources, perhaps compare our state and city data against national averages. Based on the quality of the data, include applicable statistical analyses to establish significance of gathered data.
 
 ## Datasets to be Used
-1. COVID Tracking Project API (Illinois CIVID Data): https://covidtracking.com/data/api2.Chicago
+1. COVID Tracking Project API (Illinois COVID Data): https://covidtracking.com/data/api2.Chicago
 2. Illinois Census Data: https://datausa.io/profile/geo/illinois
 3. Chicago COVID Data: https://data.cityofchicago.org/Health-Human-Services/COVID-19-Daily-Cases-and-Deaths/naz8-j4nc 
 4. Chicago Census Data: https://datausa.io/profile/geo/chicago-il

@@ -27,8 +27,8 @@ COVID-19 Demographic Analysis Group
 4. Chicago Census Data: https://datausa.io/profile/geo/chicago-il
 
 ## Breakdown of Tasks
-- [ ] Illinois COVID data analysis (Jose)
-- [ ] Illinois COVID with Census (Zac)
+- [X] Illinois COVID data analysis (Jose)
+- [X] Illinois COVID with Census (Zac)
 - [X] Chicago COVID data analysis (Jiuhe)
 - [X] Chicago COVID with Census (Elaine)
 - [ ] Comparison of Illinois and Chicago data (Daniel)

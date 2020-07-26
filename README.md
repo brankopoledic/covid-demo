@@ -6,7 +6,7 @@ Demographic Impact on COVID Infection and Death Rates in Illinois
 ## Team Name
 COVID-19 Demographic Analysis Group
 
-## Team Members
+## Team Members :+1:
 - Zac Cheatle
 - Jiuhe Zhu
 - Jose Diaz
@@ -21,14 +21,14 @@ COVID-19 Demographic Analysis Group
 3. If we have enough resources, perhaps compare our state and city data against national averages. Based on the quality of the data, include applicable statistical analyses to establish significance of gathered data.
 
 ## Datasets to be Used
-1. COVID Tracking Project API (Illinois CIVID Data): https://covidtracking.com/data/api2.Chicago
+1. COVID Tracking Project API (Illinois COVID Data): https://covidtracking.com/data/api2.Chicago
 2. Illinois Census Data: https://datausa.io/profile/geo/illinois
 3. Chicago COVID Data: https://data.cityofchicago.org/Health-Human-Services/COVID-19-Daily-Cases-and-Deaths/naz8-j4nc 
 4. Chicago Census Data: https://datausa.io/profile/geo/chicago-il
 
 ## Breakdown of Tasks
-- [ ] Illinois COVID data analysis (Jose)
-- [ ] Illinois COVID with Census (Zac)
-- [ ] Chicago COVID data analysis (Jiuhe)
-- [ ] Chicago COVID with Census (Elaine)
+- [X] Illinois COVID data analysis (Jose)
+- [X] Illinois COVID with Census (Zac)
+- [X] Chicago COVID data analysis (Jiuhe)
+- [X] Chicago COVID with Census (Elaine)
 - [ ] Comparison of Illinois and Chicago data (Daniel)

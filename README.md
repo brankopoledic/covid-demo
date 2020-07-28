@@ -18,6 +18,8 @@ COVID-19 Demographic Analysis Group
 
 2. How does the impact in Chicago compare to Illinois?
 
+3. Based on the quality of the data, include applicable statistical analyses to establish significance of gathered data.
+
 ## Datasets to be Used
 1. COVID Tracking Project API (Illinois COVID Data): https://covidtracking.com/data/api2.Chicago
 2. Illinois Census Data: https://datausa.io/profile/geo/illinois

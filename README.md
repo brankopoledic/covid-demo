@@ -8,7 +8,7 @@ COVID-19 Demographic Analysis Group
 
 ## Team Members :+1:
 - Zac Cheatle
-- Jiuhe Zhu
+- Jiuhe (Rosa) Zhu
 - Jose Diaz
 - Daniel Karpowicz
 - Elaine Cheung
@@ -31,4 +31,4 @@ COVID-19 Demographic Analysis Group
 - [X] Illinois COVID with Census (Zac)
 - [X] Chicago COVID data analysis (Jiuhe)
 - [X] Chicago COVID with Census (Elaine)
-- [ ] Comparison of Illinois and Chicago data (Daniel)
+- [X] Comparison of Illinois and Chicago data (Daniel)

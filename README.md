@@ -14,11 +14,9 @@ COVID-19 Demographic Analysis Group
 - Elaine Cheung
 
 ## Research Question(s) to be Answered
-1. What impact did the variable of race have on COVID infection and death rates in Illinois?
+1. What is the impact of race/ethnicity on COVID-19 infection and death rates in Illinois and Chicago?
 
-2. In addition, utilize Chicago city government COVID data to do a similar analysis on the local level.
-
-3. If we have enough resources, perhaps compare our state and city data against national averages. Based on the quality of the data, include applicable statistical analyses to establish significance of gathered data.
+2. How does the impact in Chicago compare to Illinois?
 
 ## Datasets to be Used
 1. COVID Tracking Project API (Illinois COVID Data): https://covidtracking.com/data/api2.Chicago

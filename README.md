@@ -1,4 +1,4 @@
-# **Project 1 covid-demo**
+# **Project 1 covid-demographics**
 
 ## Project Proposal
 Demographic Impact on COVID Infection and Death Rates in Illinois
